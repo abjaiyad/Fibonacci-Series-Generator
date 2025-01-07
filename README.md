@@ -1,4 +1,3 @@
-```
 # Fibonacci Series Generator
 
 This project is a C++ implementation to generate Fibonacci series.
@@ -46,7 +45,7 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduc
 
 ## Author
 
-This project was created by abjaiyad.
+This project was created by Amad Bin Jaiyad.
 
 ## License
 
